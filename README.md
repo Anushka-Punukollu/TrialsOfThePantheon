@@ -1,4 +1,4 @@
-# Trials Of The Pantheon
+# Trials Of The Pantheon 🏛️
 
 ICS 3U: CPT Final Project
 
